@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 431a3c3d2d0e85b7d7a48c299e0f81e0a8ca3d11 OE <zeitalex@gmail.com> 1632293881 +0200	commit (initial): initial commit
-431a3c3d2d0e85b7d7a48c299e0f81e0a8ca3d11 1c236f4c88edaac4c757971c0ce70d32665b1977 OE <zeitalex@gmail.com> 1632335641 +0200	commit: angular
-1c236f4c88edaac4c757971c0ce70d32665b1977 1c236f4c88edaac4c757971c0ce70d32665b1977 OE <zeitalex@gmail.com> 1632470799 +0200	Branch: renamed refs/heads/master to refs/heads/main
-1c236f4c88edaac4c757971c0ce70d32665b1977 2f80d333f64c4bb879a720e2db618e00166877fe OE <zeitalex@gmail.com> 1632472122 +0200	commit: readme update
-2f80d333f64c4bb879a720e2db618e00166877fe 4a15f61bf6e3bbc6d82d36a5ec657903cc6bdfcb OE <zeitalex@gmail.com> 1632473556 +0200	commit: index
-4a15f61bf6e3bbc6d82d36a5ec657903cc6bdfcb 4f7a30d5af55a73338c1946563402e2feb665079 oepres <oleg@evdakov.de> 1632485175 +0200	commit (amend): index
