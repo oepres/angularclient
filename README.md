@@ -26,10 +26,17 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Tested under
+
+ - Lubuntu 20.04
+ - Node.js v16.9.1
+ - npm 7.21.1
+ - Angular CLI 12.2.6
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Credentials
 
-This code is based on [Building a Web Application with Spring Boot and Angular](https://www.baeldung.com/spring-boot-angular-web) and was customized by [Oleg Evdakov](http://evdakov.de)
+This code is based on [Building a Web Application with Spring Boot and Angular](https://www.baeldung.com/spring-boot-angular-web). It  was made runnable and customized by [Oleg Evdakov](http://evdakov.de)
