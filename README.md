@@ -1,6 +1,8 @@
 # Angularclient
 
-Prerequisites Node.js and npm
+Prerequisites:
+ - [Running backend](https://github.com/oepres/springbootbackend)
+ - Node.js and npm
 
 To install dependencies after cloning from git run `npm i`
 
