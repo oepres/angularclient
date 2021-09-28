@@ -34,6 +34,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
  - Node.js v16.9.1
  - npm 7.21.1
  - Angular CLI 12.2.6
+ - Bootstrap v4
 
 ## Further help
 
